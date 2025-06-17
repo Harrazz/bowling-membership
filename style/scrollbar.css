@@ -1,0 +1,18 @@
+::-webkit-scrollbar {
+  background: transparent;
+  width: 10px;
+  height: 10px;
+  z-index: 1000;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #656565;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+  transition: background-color 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #464646;
+}
