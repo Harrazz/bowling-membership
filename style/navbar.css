@@ -27,7 +27,7 @@
 }
 
 .navbar-nav .nav-link:hover {
-    background-color: #2e5f5f;
+    background-color: #00a8a8;
     color: #fff;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -40,7 +40,7 @@
 }
 
 .register-btn {
-    background-color: #2e5f5f;
+    background-color: #00a8a8;
     color: #fff;
     border: none;
     cursor: pointer;

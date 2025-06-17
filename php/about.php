@@ -18,11 +18,19 @@
 <body>
     <?php include 'navbar.php'; ?>
 
-    <div class="hero-section text-center">
+    <div class="hero-section">
         <div class="container">
-            <h1>About The Lanes</h1>
-            <p>Your premier destination for bowling fun and entertainment since 2025. We're passionate about creating
-                memorable experiences for families, friends, and bowling enthusiasts.</p>
+            <div class="row align-items-center">
+                <div class="col-md-6 mb-4 mb-md-0">
+                    <img src="../images/alley.png" alt="Bowling Hero" class="img-fluid hero-img">
+                </div>
+                <div class="col-md-6 text-md-start text-center">
+                    <h1>About The Lanes</h1>
+                    <p>Your premier destination for bowling fun and entertainment since 2025. We're passionate about
+                        creating
+                        memorable experiences for families, friends, and bowling enthusiasts.</p>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -30,7 +38,9 @@
     <div class="container mb-5">
         <div class="row">
             <div class="col-lg-6">
-                <h2 class="section-title">Our Story</h2>
+                <div class="story-title-container">
+                    <h2 class="section-title">Our Story</h2>
+                </div>
                 <div class="about-card">
                     <p>The Lanes began with a simple vision: to create a modern bowling center where people of all ages
                         could enjoy quality time together. What started as a small 8-lane alley has grown into multiple
@@ -43,7 +53,9 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <h2 class="section-title">Our Mission</h2>
+                <div class="mission-title-container">
+                    <h2 class="section-title">Our Mission</h2>
+                </div>
                 <div class="about-card">
                     <p>At The Lanes, our mission is to:</p>
                     <ul>

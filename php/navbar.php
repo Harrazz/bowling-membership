@@ -34,7 +34,7 @@
                     <a class="nav-link" href="#">Policies</a>
                     <a class="nav-link" href="#">Outlets</a>
                     <a class="nav-link" href="#">Packages</a>
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="contact.php">Contact</a>
                 </div>
 
                 <div class="navbar-nav right-nav">

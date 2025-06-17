@@ -1,7 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     color: #333;
-    padding-top: 80px;
+    padding-top: 70px;
 }
 
 /* section title */
@@ -10,6 +10,11 @@ body {
     margin-bottom: 40px;
     font-weight: 700;
     color: #333;
+}
+
+.story-title-container,
+.mission-title-container {
+    text-align: center;
 }
 
 .title-container {
