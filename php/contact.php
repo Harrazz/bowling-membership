@@ -78,45 +78,45 @@
                 <div class="contact-card">
                     <div class="contact-info-item">
                         <div class="contact-icon">
-                            <i class="fas fa-map-marker-alt"></i>
+                            <i class="bi bi-geo-alt-fill"></i>
                         </div>
                         <div class="contact-text">
                             <h5>Our Location</h5>
-                            <p>123 Bowling Lane, Pinsville, CA 90210</p>
+                            <p>123 Bowling Lane,Kuala Lumpur</p>
                         </div>
                     </div>
                     <div class="contact-info-item">
                         <div class="contact-icon">
-                            <i class="fas fa-phone-alt"></i>
+                            <i class="bi bi-telephone-fill"></i>
                         </div>
                         <div class="contact-text">
                             <h5>Phone Number</h5>
-                            <p>(555) 123-4567</p>
+                            <p>010-400 8072</p>
                         </div>
                     </div>
                     <div class="contact-info-item">
                         <div class="contact-icon">
-                            <i class="fas fa-envelope"></i>
+                            <i class="bi bi-envelope-fill"></i>
                         </div>
                         <div class="contact-text">
                             <h5>Email Address</h5>
-                            <p>info@thelanes.com</p>
+                            <p>thelanes1@gmail.com</p>
                         </div>
                     </div>
                     <div class="contact-info-item">
                         <div class="contact-icon">
-                            <i class="fas fa-clock"></i>
+                            <i class="bi bi-clock-fill"></i>
                         </div>
                         <div class="contact-text">
                             <h5>Business Hours</h5>
-                            <p>Mon-Thu: 11am-10pm | Fri-Sun: 10am-12am</p>
+                            <p>Mon-Thu: 10am-11pm | Fri-Sun: 10am-1am</p>
                         </div>
                     </div>
                     <div class="social-links">
-                        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-youtube"></i></a>
+                        <a href="#" class="social-link"><i class="bi bi-facebook"></i></a>
+                        <a href="#" class="social-link"><i class="bi bi-twitter-x"></i></a>
+                        <a href="#" class="social-link"><i class="bi bi-instagram"></i></a>
+                        <a href="#" class="social-link"><i class="bi bi-youtube"></i></a>
                     </div>
                 </div>
             </div>

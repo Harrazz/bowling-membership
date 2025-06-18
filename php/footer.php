@@ -41,7 +41,7 @@
                     <address>
                         <p>The Lanes Bowling Centre</p>
                         <p><i class="bi bi-telephone-fill me-2"></i>010-400 8072</p>
-                        <p><i class="bi bi-envelope-fill me-2"></i>thelane1@gmail.com</p>
+                        <p><i class="bi bi-envelope-fill me-2"></i>thelanes1@gmail.com</p>
                     </address>
                 </div>
 

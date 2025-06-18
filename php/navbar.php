@@ -31,7 +31,7 @@
                 <div class="navbar-nav center-nav">
                     <a class="nav-link" href="homepage.php">Home</a>
                     <a class="nav-link" href="about.php">About Us</a>
-                    <a class="nav-link" href="#">Policies</a>
+                    <a class="nav-link" href="policy.php">Policies</a>
                     <a class="nav-link" href="#">Outlets</a>
                     <a class="nav-link" href="#">Packages</a>
                     <a class="nav-link" href="contact.php">Contact</a>

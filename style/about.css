@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    color: #333;
+    color: #151515;
     padding-top: 70px;
 }
 
@@ -9,7 +9,7 @@ body {
     position: relative;
     margin-bottom: 40px;
     font-weight: 700;
-    color: #333;
+    color: #151515;
 }
 
 .story-title-container,
@@ -34,10 +34,10 @@ body {
 
 .hero-section h1 {
     font-weight: 800;
-    color: #333;
+    color: #151515;
     margin-bottom: 20px;
     display: inline-block;
-    border-bottom: 4px solid #333;
+    border-bottom: 4px solid #151515;
     padding-bottom: 8px;
 }
 
@@ -142,7 +142,7 @@ body {
 }
 
 .modal-title {
-    color: #333;
+    color: #151515;
     font-weight: 700;
 }
 
